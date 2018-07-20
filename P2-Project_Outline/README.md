@@ -18,7 +18,6 @@ While working as an instructor, I saw many young kids struggling with numbers. R
 3. Reports: Parents can see their kid's current and all the previous scores in tabular form as well as graph.
 
 ### Technologies
-
 <br>Java 8 
 <br>Spring Boot<br> 2.0.3
 <br>Thymeleaf
