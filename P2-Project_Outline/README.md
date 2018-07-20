@@ -19,18 +19,18 @@ While working as an instructor, I saw many young kids struggling with numbers. R
 
 ### Technologies
 
-<p>Java 8</p> 
-Spring Boot 2.0.3
-Thymeleaf
-Java Persistence Annotation 
-Hibernate 
-MySQL 
-Bootstrap (HTML, CSS)
-Javascript 
-JSON
-REST Webservices
-AJAX
-jQuery
+<br>Java 8 
+<br>Spring Boot<br> 2.0.3
+<br>Thymeleaf
+<br>Java Persistence Annotation
+<br>Hibernate 
+<br>MySQL 
+<br>Bootstrap (HTML, CSS)
+<br>Javascript 
+<br>JSON
+<br>REST Webservices
+<br>AJAX
+<br>jQuery
 
 
 ### What I'll Have to Learn
