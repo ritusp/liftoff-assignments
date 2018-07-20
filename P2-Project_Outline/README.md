@@ -19,7 +19,7 @@ While working as an instructor, I saw many young kids struggling with numbers. R
 
 ### Technologies
 
-Java 8 
+<p>Java 8</p> 
 Spring Boot 2.0.3
 Thymeleaf
 Java Persistence Annotation 
