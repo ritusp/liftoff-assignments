@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Link to your GitHub my account https://github.com/ritusp
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Link to my LinkedIn account https://www.linkedin.com/in/ritu-pandey-694294ba/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+> *Your GitHub repository is public* if you I do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
