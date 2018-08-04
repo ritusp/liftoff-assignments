@@ -7,4 +7,7 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+Link to my project repository https://github.com/ritusp/grasp
+
+link to README.md file of my project (https://github.com/ritusp/grasp/blob/master/README.md)
